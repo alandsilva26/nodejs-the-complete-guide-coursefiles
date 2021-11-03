@@ -3,7 +3,7 @@
   * Basic implementation of a web server in nodejs
   * Handles get, post and redirects
   * Write data to file on request
-*  [chp05](./chp05)
+* [chp05](./chp05)
   * Handles routing using expressJs
   * How to parse body in express
   * (backup-app) uses routing without express router features
@@ -13,3 +13,7 @@
   * Using template engines
   * Non conventional way of globally sharing data across requests using variables
   * Rendering dynamic html
+
+# Assignments
+* [assignment-04]
+  * Basic usage of template engines(ejs)
