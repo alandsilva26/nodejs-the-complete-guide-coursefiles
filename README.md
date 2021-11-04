@@ -13,6 +13,9 @@
   * Using template engines
   * Non conventional way of globally sharing data across requests using variables
   * Rendering dynamic html
+* [chp07](./chp07)
+  * MVC
+  * Reading and writing to files using callbacks
 
 # Assignments
 * [assignment-04]
