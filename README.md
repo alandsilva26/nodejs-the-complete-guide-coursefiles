@@ -16,7 +16,17 @@
 * [chp07](./chp07)
   * MVC
   * Reading and writing to files using callbacks
+* [chp08](https://www.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11602976)
+  * Optional enhancements(no code refer udemy)
+* [chp09](./chp09)
+  * Using path params and query params( both available as params in req)
+  * Incomplete code
 
 # Assignments
 * [assignment-04]
   * Basic usage of template engines(ejs)
+
+# Resources
+* [ExpressJs](https://expressjs.com/en/guide/routing.html)
+* [NodejsDev](https://nodejs.dev/)
+* [Nodejs - Udemy](https://www.udemy.com/course/nodejs-the-complete-guide/)
