@@ -21,10 +21,17 @@
 * [chp09](./chp09)
   * Using path params and query params( both available as params in req)
   * Incomplete code
+* [chp10](./chp10)
+  * Intro to sql
+  * USE raw sql queries
 
 # Assignments
 * [assignment-04]
   * Basic usage of template engines(ejs)
+
+# Note
+* Database
+  * MySQL (docker compose)
 
 # Resources
 * [ExpressJs](https://expressjs.com/en/guide/routing.html)
