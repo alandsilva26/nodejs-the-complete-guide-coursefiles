@@ -24,6 +24,9 @@
 * [chp10](./chp10)
   * Intro to sql
   * USE raw sql queries
+* [chp11](.chp11)
+  * Intro to sequelize
+  * Associations ( mysql relations using sequelize)
 
 # Assignments
 * [assignment-04]

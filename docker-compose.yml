@@ -1,4 +1,4 @@
-version: "1.2"
+version: "2.2"
 
 services:
   mysqldb:
@@ -10,7 +10,8 @@ services:
       MYSQL_ROOT_PASSWORD: root
     ports:
       - "3306:3306"
-
+    volumes:
+          - dbdata:/var/lib/mysql
   
   adminer:
     image: adminer
@@ -44,3 +45,5 @@ services:
 
 # volumes: 
 #   postgresql: {}
+volumes:
+  dbdata:
