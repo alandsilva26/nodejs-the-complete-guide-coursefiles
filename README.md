@@ -27,6 +27,10 @@
 * [chp11](.chp11)
   * Intro to sequelize
   * Associations ( mysql relations using sequelize)
+* [chp12]
+  * Working with mongodb
+* [chp13]
+  * Working with mongoose(use udemy for chp12 and 13 reference)
 
 # Assignments
 * [assignment-04]
